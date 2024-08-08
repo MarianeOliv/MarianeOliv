@@ -12,4 +12,4 @@ Meu nome é Mariane Oliveira
 
 @maayy.oliv
 
-![](https://tenor.com/pt-BR/view/lana-del-rey-kiss-bye-aribotched-gif-26530106)
+![](https://tenor.com/pt-BR/view/lana-del-rey-kiss-bye-aribotched-gif-26530106) 
