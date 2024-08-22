@@ -2,7 +2,7 @@
 
 Meu nome é Mariane Oliveira 
 
-- Estou estudo na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
